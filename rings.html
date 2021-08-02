@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+<head>
+	<title>dots & circles</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+	<meta name="description" content="Generative art: dots & circles">
+	<link href="art.css" rel="stylesheet" />
+</head>
+<body>
+	<input type="checkbox" id="toggle" hidden />
+	<label for="toggle" data-app-elm="toggle">
+		<svg viewBox="0 0 24 24">
+			<circle cx="14" cy="6" r="2" />
+			<line x1="4" y1="6" x2="12" y2="6" />
+			<line x1="16" y1="6" x2="20" y2="6" />
+			<circle cx="8" cy="12" r="2" />
+			<line x1="4" y1="12" x2="6" y2="12" />
+			<line x1="10" y1="12" x2="20" y2="12" />
+			<circle cx="17" cy="18" r="2" />
+			<line x1="4" y1="18" x2="15" y2="18" />
+			<line x1="19" y1="18" x2="20" y2="18" />
+		</svg>
+		<svg viewBox="0 0 24 24">
+			<line x1="18" y1="6" x2="6" y2="18" />
+			<line x1="6" y1="6" x2="18" y2="18" />
+		</svg>
+	</label>
+
+	<svg data-app-elm="svg" id="svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000" style="background-color:hsl(248, 50%, 25%)">
+		<g id="g"></g>
+	</svg>
+
+	<main>
+		<form id="app" data-app="dotring">
+			<details open>
+				<summary>dots & rings</summary>
+				<div>
+					<label>
+						number of rings
+						<input type="range" id="numRings" min="1" max="30" data-random />
+					</label>
+					<label>
+						dot size
+						<input type="range" id="dotSize" min="1" max="30" data-random />
+					</label>
+					<label>
+						dots per ring
+						<input type="range" id="dotsPerRing" min="1" max="30" data-random />
+					</label>
+					<label>
+						spread
+						<input type="range" id="spread" min="1" max="50" data-random />
+					</label>
+					<label data-app-elm="checkbox">
+						<input type="checkbox" id="randomRadius" data-random />
+						<span>random radius</span>
+					</label>
+					<label data-app-elm="checkbox">
+						<input type="checkbox" id="randomDotSize" data-random />
+						<span>random dot-size</span>
+					</label>
+				</div>
+			</details>
+
+			<details>
+				<summary>color ranges</summary>
+				<div>
+					<label>
+						hue min
+						<input type="range" id="hueMin" min="0" max="360" data-random />
+					</label>
+					<label>
+						hue max
+						<input type="range" id="hueMax" min="0" max="360" data-random />
+					</label>
+					<label>
+						saturation min
+						<input type="range" id="satMin" min="0" max="100" data-suffix="%" data-random />
+					</label>
+					<label>
+						saturation max
+						<input type="range" id="satMax" min="0" max="100" data-suffix="%" data-random />
+					</label>
+					<label>
+						lightness min
+						<input type="range" id="lightMin" min="0" max="100" data-suffix="%" data-random />
+					</label>
+					<label>
+						lightness max
+						<input type="range" id="lightMax" min="0" max="100" data-suffix="%" data-random />
+					</label>
+					<label>
+						custom color-array:
+						<input type="text" id="colorArray" placeholder="#FFF|white|hsl(0,0%,100%)" />
+					</label>
+				</div>
+			</details>
+
+			<details>
+				<summary>background / canvas</summary>
+				<div>
+					<label>
+						hue
+						<input type="range" id="hueBg" min="0" max="360" data-random data-attr />
+					</label>
+					<label>
+						saturation
+						<input type="range" id="satBg" min="0" max="100" data-suffix="%" data-random data-attr />
+					</label>
+					<label>
+						lightness
+						<input type="range" id="lightBg" min="0" max="100" data-suffix="%" data-random data-attr />
+					</label>
+					<label>
+						canvas y:x ratio
+						<input type="range" id="canvasRatio" min="25" max="150" value="100" />
+					</label>
+					<label>
+						rotate
+						<input type="range" min="0" max="359" value="0" id="rotate" data-attr />
+					</label>
+					<label>
+						scale-x
+						<input type="range" min="0.01" max="3" step="0.01" value="1" id="scaleX" data-attr />
+					</label>
+					<label>
+						scale-y
+						<input type="range" min="0.01" max="3" step="0.01" value="1" id="scaleY" data-attr />
+					</label>
+					<label>
+						translate-x
+						<input type="range" min="-1000" max="1000" value="0" id="translateX" data-attr />
+					</label>
+					<label>
+						translate-y
+						<input type="range" min="-1000" max="1000" value="0" id="translateY" data-attr />
+					</label>
+				</div>
+			</details>
+
+			<details>
+				<summary>presets</summary>
+				<div>
+					<div id="presets"></div>
+					<button type="button" onclick="savePreset()">Save preset</button>
+				</div>
+			</details>
+
+			<details>
+				<summary>export</summary>
+				<div>
+					<label data-value="1x">
+						scale export (1x - 10x)
+						<input type="range" min="1" max="10" value="1" id="scaleExport" data-suffix="x" data-ignore />
+					</label>
+					<fieldset>
+						<legend>file format</legend>
+						<label data-app-elm="radio">
+							<input type="radio" name="fileFormat" value="svg" data-ignore>
+							<span>svg</span>
+						</label>
+						<label data-app-elm="radio">
+							<input type="radio" name="fileFormat" value="" data-ignore checked>
+							<span>png</span>
+						</label>
+						<label data-app-elm="radio">
+							<input type="radio" name="fileFormat" value="jpg" data-ignore>
+							<span>jpg</span>
+						</label>
+						<label data-app-elm="radio">
+							<input type="radio" name="fileFormat" value="webp" data-ignore>
+							<span>webp</span>
+						</label>
+					</fieldset>
+					<button type="button" onclick="saveFile(svg, app.elements.fileFormat.value)">Save To Image</button>
+				</div>
+			</details>
+			<br />
+			<button type="button" onclick="randomPreset()">Random!</button>
+		</form>
+	</main>
+
+	<script src="assets/js/art.js"></script>
+	<script>
+		const preset = {
+			numRings: 12,
+			dotSize: 12,
+			dotsPerRing: 7,
+			spread: 36,
+			randomRadius: 0,
+			randomDotSize: 0,
+			hueMin: 25,
+			hueMax: 50,
+			satMin: 50,
+			satMax: 90,
+			lightMin: 60,
+			lightMax: 90,
+			hueBg: 248,
+			satBg: 50,
+			lightBg: 25
+		}
+		loadPreset(preset);
+	</script>
+<!-- #1393AE|#FF9E44|#DB3857|#9B224D|#080D10 -->
+</body>
+</html>
