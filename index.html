@@ -6,49 +6,350 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="description" content="HTML is the foundation of the World Wide Web, and it is still the most popular markup language in use today.">
 	<meta name="view-transition" content="same-origin">
-	<link rel="stylesheet" href="/common.css">
+	<!-- <link rel="stylesheet" href="/common.css"> -->
+	 <style>
+		body {
+			background-color: Canvas;
+			color: CanvasText;
+			color-scheme: dark;
+			margin: 0;
+			padding: 0;
+		}
+		figure {
+			container-type: inline-size;
+			margin: 0;
+			padding: 0;
+			position: relative;
+		}
+		figcaption {
+			background-color: Canvas;
+			bottom: 0;
+			font-family: Bahnschrift, 'DIN Alternate', 'Franklin Gothic Medium', 'Nimbus Sans Narrow', sans-serif-condensed, sans-serif;
+			font-size: 8cqi;
+			position: absolute;
+			right: 0;
+			font-weight: 700;
+			line-height: 1;
+			opacity: 0;
+			padding: .5cqi 1.5cqi;
+			text-transform: uppercase;
+			transition: opacity .5s ease-in-out;
+		}
+		img {
+			aspect-ratio: 1 / 1;
+			display: block;
+			height: auto;
+			width: 100%;
+		}
+		main {
+			display: grid;
+			grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+		}
+		@media (hover:hover) {
+			figure:hover figcaption {
+				opacity: 1;
+			}
+		}
+	 </style>
 </head>
 <body>
-	<h1>Art Generators</h1>
-	<p>A collection of configurable <code>SVG</code> art generators. Expand <em>Settings &amp; Tools</em> under each tool to set canvas-size, save as a preset — or download file.</p>
-	<ol class="ui-grid --sm-c-2 --md-c-3">
-		<li><a href="/angles-in-orbit/">Angles In Orbit</a></li>
-		<li><a href="/bauhaus/">Das ist Bauhaus</a></li>
-		<li><a href="/circle-grid/">Circle Grid</a></li>
-		<li><a href="/circle-of-life/">Circle of Life</a></li>
-		<li><a href="/circles-verticals/">Circles &amp; Verticals</a></li>
-		<li><a href="/cosmic-lattice/">Cosmic Lattice</a></li>
-		<li><a href="/creepy-crawlers/">Creepy Crawlers</a></li>
-		<li><a href="/cyclic-waves/">Cyclic Waves</a></li>
-		<li><a href="/harmonic-bloom/">Harmonic Bloom</a></li>
-		<li><a href="/petal-nexus/">Petal Nexus</a></li>
-		<li><a href="/flower-of-life/">Flower of Life</a></li>
-		<li><a href="/gernes/">Gernes</a></li>
-		<li><a href="/golden-ratio/">Golden Ratio</a></li>
-		<li><a href="/homage-square/">Homage to the Square</a></li>
-		<li><a href="/kusama/">Kusama Dots</a></li>
-		<li><a href="/mandala/">Mandala</a></li>
-		<li><a href="/merkaba/">Merkaba</a></li>
-		<li><a href="/meshmerize/">Meshmerize</a></li>
-		<li><a href="/metatrons-cube/">Metatron’s Cube</a></li>
-		<li><a href="/metatrons-other-cube/">Metatron’s Other Cube</a></li>
-		<li><a href="/nataraja/">Nataraja</a></li>
-		<li><a href="/particles/">Particles</a></li>
-		<li><a href="/radiohead/">Radiohead</a></li>
-		<li><a href="/lunar-echoes/">Lunar Echoes</a></li>
-		<li><a href="/riley-circles/">Riley Circles</a></li>
-		<li><a href="/riley-squares/">Riley Squares</a></li>
-		<li><a href="/riley-triangles">Riley Triangles</a></li>
-		<li><a href="/ripples/">Ripples</a></li>
-		<li><a href="/spiral/">Spiral</a></li>
-		<li><a href="/stripes/">Stripes</a></li>
-		<li><a href="/subway-map/">Subway Map</a></li>
-		<li><a href="/the-ray/">The Ray</a></li>
-		<li><a href="/kaleidoscope/">Kaleidoscope</a></li>
-		<li><a href="/warped-chess/">Warped Chess</a></li>
-		<li><a href="/rippled-vibrations/">Rippled Vibrations</a></li>
-		<li><a href="/circular-tapestry/">Circular Tapestry</a></li>
-		<li><a href="/sea-of-words/">Sea of Words</a></li>
-	</ol>
+	<main>
+		<figure>
+			<a href="/angles-in-orbit/">
+				<img src="angles-in-orbit/index.png" alt="Angles In Orbit">
+			</a>
+			<figcaption>
+				Angles In Orbit
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/bauhaus/">
+				<img src="bauhaus/index.png" alt="Das ist Bauhaus">
+			</a>
+			<figcaption>
+				Das ist Bauhaus
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/circle-grid/">
+				<img src="circle-grid/index.png" alt="Circle Grid">
+			</a>
+			<figcaption>
+				Circle Grid
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/circle-of-life/">
+				<img src="circle-of-life/index.png" alt="Circle of Life">
+			</a>
+			<figcaption>
+				Circle of Life
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/circles-verticals/">
+				<img src="circles-verticals/index.png" alt="Circles &amp; Verticals">
+			</a>
+			<figcaption>
+				Circles &amp; Verticals
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/cosmic-lattice/">
+				<img src="cosmic-lattice/index.png" alt="Cosmic Lattice">
+			</a>
+			<figcaption>
+				Cosmic Lattice
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/creepy-crawlers/">
+				<img src="creepy-crawlers/index.png" alt="Creepy Crawlers">
+			</a>
+			<figcaption>
+				Creepy Crawlers
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/cyclic-waves/">
+				<img src="cyclic-waves/index.png" alt="Cyclic Waves">
+			</a>
+			<figcaption>
+				Cyclic Waves
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/harmonic-bloom/">
+				<img src="harmonic-bloom/index.png" alt="Harmonic Bloom">
+			</a>
+			<figcaption>
+				Harmonic Bloom
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/petal-nexus/">
+				<img src="petal-nexus/index.png" alt="Petal Nexus">
+			</a>
+			<figcaption>
+				Petal Nexus
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/flower-of-life/">
+				<img src="flower-of-life/index.png" alt="Flower of Life">
+			</a>
+			<figcaption>
+				Flower of Life
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/gernes/">
+				<img src="gernes/index.png" alt="Gernes">
+			</a>
+			<figcaption>
+				Gernes
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/golden-ratio/">
+				<img src="golden-ratio/index.png" alt="Golden Ratio">
+			</a>
+			<figcaption>
+				Golden Ratio
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/homage-square/">
+				<img src="homage-square/index.png" alt="Homage to the Square">
+			</a>
+			<figcaption>
+				Homage to the Square
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/kusama/">
+				<img src="kusama/index.png" alt="Kusama Dots">
+			</a>
+			<figcaption>
+				Kusama Dots
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/mandala/">
+				<img src="mandala/index.png" alt="Mandala">
+			</a>
+			<figcaption>
+				Mandala
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/merkaba/">
+				<img src="merkaba/index.png" alt="Merkaba">
+			</a>
+			<figcaption>
+				Merkaba
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/meshmerize/">
+				<img src="meshmerize/index.png" alt="Meshmerize">
+			</a>
+			<figcaption>
+				Meshmerize
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/metatrons-cube/">
+				<img src="metatrons-cube/index.png" alt="Metatron's Cube">
+			</a>
+			<figcaption>
+				Metatron's Cube
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/metatrons-other-cube/">
+				<img src="metatrons-other-cube/index.png" alt="Metatron's Other Cube">
+			</a>
+			<figcaption>
+				Metatron's Other Cube
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/nataraja/">
+				<img src="nataraja/index.png" alt="Nataraja">
+			</a>
+			<figcaption>
+				Nataraja
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/particles/">
+				<img src="particles/index.png" alt="Particles">
+			</a>
+			<figcaption>
+				Particles
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/radiohead/">
+				<img src="radiohead/index.png" alt="Radiohead">
+			</a>
+			<figcaption>
+				Radiohead
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/lunar-echoes/">
+				<img src="lunar-echoes/index.png" alt="Lunar Echoes">
+			</a>
+			<figcaption>
+				Lunar Echoes
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/riley-circles/">
+				<img src="riley-circles/index.png" alt="Riley Circles">
+			</a>
+			<figcaption>
+				Riley Circles
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/riley-squares/">
+				<img src="riley-squares/index.png" alt="Riley Squares">
+			</a>
+			<figcaption>
+				Riley Squares
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/riley-triangles">
+				<img src="riley-triangles/index.png" alt="Riley Triangles">
+			</a>
+			<figcaption>
+				Riley Triangles
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/ripples/">
+				<img src="ripples/index.png" alt="Ripples">
+			</a>
+			<figcaption>
+				Ripples
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/spiral/">
+				<img src="spiral/index.png" alt="Spiral">
+			</a>
+			<figcaption>
+				Spiral
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/stripes/">
+				<img src="stripes/index.png" alt="Stripes">
+			</a>
+			<figcaption>
+				Stripes
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/subway-map/">
+				<img src="subway-map/index.png" alt="Subway Map">
+			</a>
+			<figcaption>
+				Subway Map
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/the-ray/">
+				<img src="the-ray/index.png" alt="The Ray">
+			</a>
+			<figcaption>
+				The Ray
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/kaleidoscope/">
+				<img src="kaleidoscope/index.png" alt="Kaleidoscope">
+			</a>
+			<figcaption>
+				Kaleidoscope
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/warped-chess/">
+				<img src="warped-chess/index.png" alt="Warped Chess">
+			</a>
+			<figcaption>
+				Warped Chess
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/rippled-vibrations/">
+				<img src="rippled-vibrations/index.png" alt="Rippled Vibrations">
+			</a>
+			<figcaption>
+				Rippled Vibrations
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/circular-tapestry/">
+				<img src="circular-tapestry/index.png" alt="Circular Tapestry">
+			</a>
+			<figcaption>
+				Circular Tapestry
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="/sea-of-words/">
+				<img src="sea-of-words/index.png" alt="Sea of Words">
+			</a>
+			<figcaption>
+				Sea of Words
+			</figcaption>
+		</figure>
+	</main>
 </body>
 </html>
