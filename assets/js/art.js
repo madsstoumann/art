@@ -219,6 +219,7 @@ const apps = {
 			let [x, y] = vertices[triangles[i]];
 			let [a, b] = vertices[triangles[i+1]];
 			let [c, d] = vertices[triangles[i+2]];
+			// s+= `<path fill="${randomColor()}" d="M${x} ${y} L${a} ${b} L${c} ${d}Z" ></path>`;
 			s+= `<path fill="hsl(${R(hueMax.valueAsNumber, hueMin.valueAsNumber)}, ${R(satMax.valueAsNumber, satMin.valueAsNumber)}%, ${R(lightMax.valueAsNumber, lightMin.valueAsNumber)}%)"
 			d="M${x} ${y} L${a} ${b} L${c} ${d}Z" stroke="hsl(${hueStroke.valueAsNumber}, ${satStroke.valueAsNumber}%, ${lightStroke.valueAsNumber}%)" stroke-width="${strokeWidth.valueAsNumber}"></path>`;
 		}
