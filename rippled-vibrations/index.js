@@ -1,6 +1,6 @@
 import * as common from '../common.js';
 const GUI = document.querySelector('gui-control');
-const storageKey = 'wavy';
+const storageKey = 'rippledvibrations';
 const svg = document.getElementById('svg');
 
 GUI.addRange('Amount', 90, '', { min: 2, max: 300, value: 90, name: 'amount' });

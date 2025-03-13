@@ -1,6 +1,6 @@
 import * as common from '../common.js';
 const GUI = document.querySelector('gui-control');
-const storageKey = 'triangley';
+const storageKey = 'riley-triangles';
 const svg = document.getElementById('svg');
 GUI.addRange('Rows', 10, '', { min: 3, max: 32, name: 'rows' });
 GUI.addCheckbox('Triangle', '0', '', { name: 'triangle', checked: 'checked' });

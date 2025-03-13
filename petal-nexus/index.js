@@ -1,6 +1,6 @@
 import * as common from '../common.js';
 const GUI = document.querySelector('gui-control');
-const storageKey = 'flower';
+const storageKey = 'petalnexus';
 const svg = document.getElementById('svg');
 
 GUI.addRange('Petals', 12, '', { min: 5, max: 30, name: 'petals' });
@@ -8,12 +8,12 @@ GUI.addRange('Rings', 4, '', { min: 1, max: 8, name: 'rings' });
 GUI.addRange('Petal height', 15, '', { min: 2, max: 25, step: 0.1, value: 10, name: 'petalheight' });
 GUI.addRange('Petal width', 5, '', { min: 0, max: 10, step: 0.1, value: 0, name: 'petalwidth' });
 GUI.addColor('Petal color', '#a20b3e', '', { name: 'petalcolor' });
-GUI.addCheckbox('Saturate', '0', '', { 'data-unchecked': '0', name: 'saturate' });
+GUI.addCheckbox('Saturate', '0', '', { 'data-unchecked': '0', name: 'saturate', checked: 'checked' });
 GUI.addColor('Line color', '#e0ac10', '', { name: 'stroke' });
-GUI.addRange('Line width', 0.1, '', { min: 0, max: 5, value: 0, step: 0.01, name: 'strokewidth' });
+GUI.addRange('Line width', 0.15, '', { min: 0, max: 5, value: 0, step: 0.01, name: 'strokewidth' });
 GUI.addColor('Pistil color', '#e0ac10', '', { name: 'pistilcolor' });
 GUI.addRange('Pistil size', 4, '', { min: 0, max: 40, name: 'pistilsize' });
-GUI.addRange('Scale', 1, '', { min: 0, max: 2, step: 0.025, name: 'scale' });
+GUI.addRange('Scale', 1.2, '', { min: 0, max: 2, step: 0.025, name: 'scale' });
 common.commonConfig(GUI, '#326748');
 GUI.addEventListener('gui-input', (event) => common.handleGuiEvent(event, svg, GUI, storageKey, petalNexus));
 common.init(GUI, storageKey, []);

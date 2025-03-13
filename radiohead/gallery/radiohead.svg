@@ -1,0 +1,359 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" id="svg" style="--frame-c: #f6c6a4; --frame-bdw: 1em; background-color: rgb(28, 29, 30); --frame-asr: 100 / 100.;">
+    <defs>
+      <style type="text/css">
+        @import url('https://fonts.googleapis.com/css2?family=Pangolin&amp;display=swap');
+      </style>
+      <filter id="squiggly">
+        <feTurbulence id="turbulence1" baseFrequency="0.02" numOctaves="3" result="noise" seed="0"></feTurbulence>
+        <feDisplacementMap id="displacement" in="SourceGraphic" in2="noise" scale="6"></feDisplacementMap>
+      </filter>
+    </defs>
+    <g transform="translate(0.5 0.5) scale(0.95)" filter="url(#squiggly)"><g>
+        <rect x="8.887918400764462" y="0" width="18.61069631576538" height="4.3478260869565215" fill="#0D5436"></rect>
+        <text x="10.387918400764462" y="3.695652173913043" font-family="Pangolin" font-size="4.3478260869565215" fill="#101624">DEFEAT</text>
+      
+        <rect x="27.498614716529843" y="0" width="16.94718313217163" height="4.3478260869565215" fill="#101624"></rect>
+        <text x="28.998614716529843" y="3.695652173913043" font-family="Pangolin" font-size="4.3478260869565215" fill="#FDA223">EMPTY</text>
+      
+        <rect x="44.445797848701474" y="0" width="16.66590266227722" height="4.3478260869565215" fill="#F8551A"></rect>
+        <text x="45.945797848701474" y="3.695652173913043" font-family="Pangolin" font-size="4.3478260869565215" fill="#093588">TRUTH</text>
+      
+        <rect x="61.11170051097869" y="0" width="9.168004131317138" height="4.3478260869565215" fill="#101624"></rect>
+        <text x="62.61170051097869" y="3.695652173913043" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">JOY</text>
+      
+        <rect x="70.27970464229583" y="0" width="20.832376956939697" height="4.3478260869565215" fill="#F8551A"></rect>
+        <text x="71.77970464229583" y="3.695652173913043" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">DANGER</text>
+      </g><g>
+        <rect x="1.2658595800399794" y="4.3478260869565215" width="11.110601043701172" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="2.7658595800399794" y="8.043478260869565" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">WAR</text>
+      
+        <rect x="12.376460623741151" y="4.3478260869565215" width="19.261159801483153" height="4.3478260869565215" fill="#101624"></rect>
+        <text x="13.876460623741151" y="8.043478260869565" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">REVOLT</text>
+      
+        <rect x="31.637620425224306" y="4.3478260869565215" width="26.543702030181883" height="4.3478260869565215" fill="#EAEFF0"></rect>
+        <text x="33.137620425224306" y="8.043478260869565" font-family="Pangolin" font-size="4.3478260869565215" fill="#093588">DETACHED</text>
+      
+        <rect x="58.18132245540619" y="4.3478260869565215" width="12.776313161849975" height="4.3478260869565215" fill="#D0001D"></rect>
+        <text x="59.68132245540619" y="8.043478260869565" font-family="Pangolin" font-size="4.3478260869565215" fill="#101624">HATE</text>
+      
+        <rect x="70.95763561725616" y="4.3478260869565215" width="15.277077531814575" height="4.3478260869565215" fill="#EAEFF0"></rect>
+        <text x="72.45763561725616" y="8.043478260869565" font-family="Pangolin" font-size="4.3478260869565215" fill="#093588">BLIND</text>
+      
+        <rect x="86.23471314907073" y="4.3478260869565215" width="12.499427270889282" height="4.3478260869565215" fill="#EAEFF0"></rect>
+        <text x="87.73471314907073" y="8.043478260869565" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">LOSE</text>
+      </g><g>
+        <rect x="2.3624166965484648" y="8.695652173913043" width="15.835243892669677" height="4.3478260869565215" fill="#093588"></rect>
+        <text x="3.8624166965484648" y="12.391304347826086" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">PEACE</text>
+      
+        <rect x="18.197660589218142" y="8.695652173913043" width="19.724833393096922" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="19.697660589218142" y="12.391304347826086" font-family="Pangolin" font-size="4.3478260869565215" fill="#EAEFF0">TERROR</text>
+      
+        <rect x="37.92249398231506" y="8.695652173913043" width="12.499427270889282" height="4.3478260869565215" fill="#EAEFF0"></rect>
+        <text x="39.42249398231506" y="12.391304347826086" font-family="Pangolin" font-size="4.3478260869565215" fill="#101624">LOST</text>
+      
+        <rect x="50.421921253204346" y="8.695652173913043" width="10.835912990570067" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="51.921921253204346" y="12.391304347826086" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">RISE</text>
+      
+        <rect x="61.25783424377441" y="8.695652173913043" width="14.9957959651947" height="4.3478260869565215" fill="#D0001D"></rect>
+        <text x="62.75783424377441" y="12.391304347826086" font-family="Pangolin" font-size="4.3478260869565215" fill="#FDA223">QUIET</text>
+      
+        <rect x="76.25363020896911" y="8.695652173913043" width="21.383953094482422" height="4.3478260869565215" fill="#093588"></rect>
+        <text x="77.75363020896911" y="12.391304347826086" font-family="Pangolin" font-size="4.3478260869565215" fill="#EAEFF0">DECEIVE</text>
+      </g><g>
+        <rect x="5.426842021942143" y="13.043478260869565" width="27.218337345123288" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="6.926842021942143" y="16.73913043478261" font-family="Pangolin" font-size="4.3478260869565215" fill="#093588">FOLLOWER</text>
+      
+        <rect x="32.64517936706543" y="13.043478260869565" width="13.057593631744384" height="4.3478260869565215" fill="#EAEFF0"></rect>
+        <text x="34.14517936706543" y="16.73913043478261" font-family="Pangolin" font-size="4.3478260869565215" fill="#F8551A">OPEN</text>
+      
+        <rect x="45.70277299880981" y="13.043478260869565" width="12.224738121032713" height="4.3478260869565215" fill="#D0001D"></rect>
+        <text x="47.20277299880981" y="16.73913043478261" font-family="Pangolin" font-size="4.3478260869565215" fill="#093588">FREE</text>
+      
+        <rect x="57.92751111984253" y="13.043478260869565" width="20.810402965545652" height="4.3478260869565215" fill="#093588"></rect>
+        <text x="59.42751111984253" y="16.73913043478261" font-family="Pangolin" font-size="4.3478260869565215" fill="#EAEFF0">LIBERTY</text>
+      
+        <rect x="78.73791408538818" y="13.043478260869565" width="15.835243892669677" height="4.3478260869565215" fill="#F8551A"></rect>
+        <text x="80.23791408538818" y="16.73913043478261" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">CLOSE</text>
+      </g><g>
+        <rect x="2.7799433708190904" y="17.391304347826086" width="14.9957959651947" height="4.3478260869565215" fill="#093588"></rect>
+        <text x="4.27994337081909" y="21.08695652173913" font-family="Pangolin" font-size="4.3478260869565215" fill="#EAEFF0">UNITE</text>
+      
+        <rect x="17.775739336013793" y="17.391304347826086" width="10.835912990570067" height="4.3478260869565215" fill="#F8551A"></rect>
+        <text x="19.275739336013793" y="21.08695652173913" font-family="Pangolin" font-size="4.3478260869565215" fill="#093588">RISE</text>
+      
+        <rect x="28.611652326583858" y="17.391304347826086" width="15.835243892669677" height="4.3478260869565215" fill="#F8551A"></rect>
+        <text x="30.111652326583858" y="21.08695652173913" font-family="Pangolin" font-size="4.3478260869565215" fill="#101624">CLOSE</text>
+      
+        <rect x="44.44689621925353" y="17.391304347826086" width="18.61509199142456" height="4.3478260869565215" fill="#101624"></rect>
+        <text x="45.94689621925353" y="21.08695652173913" font-family="Pangolin" font-size="4.3478260869565215" fill="#F8551A">ESCAPE</text>
+      
+        <rect x="63.061988210678095" y="17.391304347826086" width="14.9957959651947" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="64.5619882106781" y="21.08695652173913" font-family="Pangolin" font-size="4.3478260869565215" fill="#D0001D">QUIET</text>
+      
+        <rect x="78.0577841758728" y="17.391304347826086" width="19.162272453308105" height="4.3478260869565215" fill="#093588"></rect>
+        <text x="79.5577841758728" y="21.08695652173913" font-family="Pangolin" font-size="4.3478260869565215" fill="#F8551A">HIDDEN</text>
+      </g><g>
+        <rect x="7.501289463043214" y="21.73913043478261" width="13.888252401351927" height="4.3478260869565215" fill="#0D5436"></rect>
+        <text x="9.001289463043214" y="25.434782608695652" font-family="Pangolin" font-size="4.3478260869565215" fill="#101624">LOUD</text>
+      
+        <rect x="21.38954186439514" y="21.73913043478261" width="19.44574966430664" height="4.3478260869565215" fill="#D0001D"></rect>
+        <text x="22.88954186439514" y="25.434782608695652" font-family="Pangolin" font-size="4.3478260869565215" fill="#FDA223">FUTURE</text>
+      
+        <rect x="40.83529152870178" y="21.73913043478261" width="16.94718313217163" height="4.3478260869565215" fill="#D0001D"></rect>
+        <text x="42.33529152870178" y="25.434782608695652" font-family="Pangolin" font-size="4.3478260869565215" fill="#EAEFF0">BREAK</text>
+      
+        <rect x="57.78247466087341" y="21.73913043478261" width="13.055396890640258" height="4.3478260869565215" fill="#EAEFF0"></rect>
+        <text x="59.28247466087341" y="25.434782608695652" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">RULE</text>
+      
+        <rect x="70.83787155151367" y="21.73913043478261" width="21.660838985443114" height="4.3478260869565215" fill="#101624"></rect>
+        <text x="72.33787155151367" y="25.434782608695652" font-family="Pangolin" font-size="4.3478260869565215" fill="#F8551A">VIOLENT</text>
+      </g><g>
+        <rect x="10.27015056610108" y="26.08695652173913" width="23.06065111160278" height="4.3478260869565215" fill="#F8551A"></rect>
+        <text x="11.77015056610108" y="29.782608695652172" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">CORRUPT</text>
+      
+        <rect x="33.33080167770386" y="26.08695652173913" width="23.06065111160278" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="34.83080167770386" y="29.782608695652172" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">CORRUPT</text>
+      
+        <rect x="56.39145278930664" y="26.08695652173913" width="21.11146068572998" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="57.89145278930664" y="29.782608695652172" font-family="Pangolin" font-size="4.3478260869565215" fill="#EAEFF0">FRAGILE</text>
+      
+        <rect x="77.50291347503662" y="26.08695652173913" width="12.226935958862304" height="4.3478260869565215" fill="#093588"></rect>
+        <text x="79.00291347503662" y="29.782608695652172" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">SAFE</text>
+      </g><g>
+        <rect x="1.2548720359802275" y="30.43478260869565" width="15.277077531814575" height="4.3478260869565215" fill="#093588"></rect>
+        <text x="2.7548720359802275" y="34.13043478260869" font-family="Pangolin" font-size="4.3478260869565215" fill="#101624">BUILD</text>
+      
+        <rect x="16.531949567794804" y="30.43478260869565" width="15.277077531814575" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="18.031949567794804" y="34.13043478260869" font-family="Pangolin" font-size="4.3478260869565215" fill="#EAEFF0">BLIND</text>
+      
+        <rect x="31.80902709960938" y="30.43478260869565" width="24.72416429519653" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="33.30902709960938" y="34.13043478260869" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">ANARCHY</text>
+      
+        <rect x="56.53319139480591" y="30.43478260869565" width="9.996465063095092" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="58.03319139480591" y="34.13043478260869" font-family="Pangolin" font-size="4.3478260869565215" fill="#101624">WIN</text>
+      
+        <rect x="66.529656457901" y="30.43478260869565" width="10.554632520675659" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="68.029656457901" y="34.13043478260869" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">LIES</text>
+      
+        <rect x="77.08428897857665" y="30.43478260869565" width="21.660838985443114" height="4.3478260869565215" fill="#F8551A"></rect>
+        <text x="78.58428897857665" y="34.13043478260869" font-family="Pangolin" font-size="4.3478260869565215" fill="#FDA223">VIOLENT</text>
+      </g><g>
+        <rect x="11.707321000099185" y="34.78260869565217" width="21.8608115196228" height="4.3478260869565215" fill="#F8551A"></rect>
+        <text x="13.207321000099185" y="38.47826086956522" font-family="Pangolin" font-size="4.3478260869565215" fill="#FDA223">VICTORY</text>
+      
+        <rect x="33.568132519721985" y="34.78260869565217" width="16.942788553237914" height="4.3478260869565215" fill="#093588"></rect>
+        <text x="35.068132519721985" y="38.47826086956522" font-family="Pangolin" font-size="4.3478260869565215" fill="#101624">VISION</text>
+      
+        <rect x="50.5109210729599" y="34.78260869565217" width="13.057593631744384" height="4.3478260869565215" fill="#093588"></rect>
+        <text x="52.0109210729599" y="38.47826086956522" font-family="Pangolin" font-size="4.3478260869565215" fill="#F8551A">HOPE</text>
+      
+        <rect x="63.568514704704285" y="34.78260869565217" width="24.72416429519653" height="4.3478260869565215" fill="#101624"></rect>
+        <text x="65.06851470470428" y="38.47826086956522" font-family="Pangolin" font-size="4.3478260869565215" fill="#093588">ANARCHY</text>
+      </g><g>
+        <rect x="4.862082147598272" y="39.130434782608695" width="11.110601043701172" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="6.362082147598272" y="42.826086956521735" font-family="Pangolin" font-size="4.3478260869565215" fill="#093588">WAR</text>
+      
+        <rect x="15.972683191299444" y="39.130434782608695" width="10.835912990570067" height="4.3478260869565215" fill="#101624"></rect>
+        <text x="17.472683191299446" y="42.826086956521735" font-family="Pangolin" font-size="4.3478260869565215" fill="#F8551A">RISE</text>
+      
+        <rect x="26.80859618186951" y="39.130434782608695" width="12.220343542098998" height="4.3478260869565215" fill="#D0001D"></rect>
+        <text x="28.30859618186951" y="42.826086956521735" font-family="Pangolin" font-size="4.3478260869565215" fill="#FDA223">WISE</text>
+      
+        <rect x="39.028939723968506" y="39.130434782608695" width="26.38328399658203" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="40.528939723968506" y="42.826086956521735" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">UNKNOWN</text>
+      
+        <rect x="65.41222372055054" y="39.130434782608695" width="12.776313161849975" height="4.3478260869565215" fill="#0D5436"></rect>
+        <text x="66.91222372055054" y="42.826086956521735" font-family="Pangolin" font-size="4.3478260869565215" fill="#093588">HATE</text>
+      
+        <rect x="78.18853688240051" y="39.130434782608695" width="16.94938097000122" height="4.3478260869565215" fill="#F8551A"></rect>
+        <text x="79.68853688240051" y="42.826086956521735" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">CHAOS</text>
+      </g><g>
+        <rect x="10.552529954910277" y="43.47826086956522" width="13.057593631744384" height="4.3478260869565215" fill="#F8551A"></rect>
+        <text x="12.052529954910277" y="47.173913043478265" font-family="Pangolin" font-size="4.3478260869565215" fill="#FDA223">OPEN</text>
+      
+        <rect x="23.61012358665466" y="43.47826086956522" width="16.94718313217163" height="4.3478260869565215" fill="#0D5436"></rect>
+        <text x="25.11012358665466" y="47.173913043478265" font-family="Pangolin" font-size="4.3478260869565215" fill="#FDA223">BREAK</text>
+      
+        <rect x="40.55730671882629" y="43.47826086956522" width="25.28013391494751" height="4.3478260869565215" fill="#EAEFF0"></rect>
+        <text x="42.05730671882629" y="47.173913043478265" font-family="Pangolin" font-size="4.3478260869565215" fill="#093588">PEACEFUL</text>
+      
+        <rect x="65.8374406337738" y="43.47826086956522" width="23.610029411315917" height="4.3478260869565215" fill="#F8551A"></rect>
+        <text x="67.3374406337738" y="47.173913043478265" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">CONTROL</text>
+      </g><g>
+        <rect x="6.2509072780609145" y="47.826086956521735" width="17.221872282028198" height="4.3478260869565215" fill="#093588"></rect>
+        <text x="7.7509072780609145" y="51.52173913043478" font-family="Pangolin" font-size="4.3478260869565215" fill="#EAEFF0">DOUBT</text>
+      
+        <rect x="23.472779560089112" y="47.826086956521735" width="13.057593631744384" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="24.972779560089112" y="51.52173913043478" font-family="Pangolin" font-size="4.3478260869565215" fill="#093588">OPEN</text>
+      
+        <rect x="36.5303731918335" y="47.826086956521735" width="12.776313161849975" height="4.3478260869565215" fill="#D0001D"></rect>
+        <text x="38.0303731918335" y="51.52173913043478" font-family="Pangolin" font-size="4.3478260869565215" fill="#101624">HATE</text>
+      
+        <rect x="49.306686353683475" y="47.826086956521735" width="25.28013391494751" height="4.3478260869565215" fill="#D0001D"></rect>
+        <text x="50.806686353683475" y="51.52173913043478" font-family="Pangolin" font-size="4.3478260869565215" fill="#FDA223">PEACEFUL</text>
+      
+        <rect x="74.58682026863099" y="47.826086956521735" width="19.162272453308105" height="4.3478260869565215" fill="#D0001D"></rect>
+        <text x="76.08682026863099" y="51.52173913043478" font-family="Pangolin" font-size="4.3478260869565215" fill="#101624">KNOWN</text>
+      </g><g>
+        <rect x="9.070309329032902" y="52.17391304347826" width="15.277077531814575" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="10.570309329032902" y="55.8695652173913" font-family="Pangolin" font-size="4.3478260869565215" fill="#093588">VOICE</text>
+      
+        <rect x="24.34738686084748" y="52.17391304347826" width="26.022893428802487" height="4.3478260869565215" fill="#0D5436"></rect>
+        <text x="25.84738686084748" y="55.8695652173913" font-family="Pangolin" font-size="4.3478260869565215" fill="#F8551A">FAITHLESS</text>
+      
+        <rect x="50.37028028964997" y="52.17391304347826" width="13.055396890640258" height="4.3478260869565215" fill="#EAEFF0"></rect>
+        <text x="51.87028028964997" y="55.8695652173913" font-family="Pangolin" font-size="4.3478260869565215" fill="#D0001D">RULE</text>
+      
+        <rect x="63.42567718029023" y="52.17391304347826" width="16.94938097000122" height="4.3478260869565215" fill="#F8551A"></rect>
+        <text x="64.92567718029022" y="55.8695652173913" font-family="Pangolin" font-size="4.3478260869565215" fill="#093588">CHAOS</text>
+      
+        <rect x="80.37505815029145" y="52.17391304347826" width="10.554632520675659" height="4.3478260869565215" fill="#EAEFF0"></rect>
+        <text x="81.87505815029145" y="55.8695652173913" font-family="Pangolin" font-size="4.3478260869565215" fill="#FDA223">LIES</text>
+      </g><g>
+        <rect x="4.354457831382753" y="56.52173913043478" width="20.832376956939697" height="4.3478260869565215" fill="#D0001D"></rect>
+        <text x="5.854457831382753" y="60.21739130434783" font-family="Pangolin" font-size="4.3478260869565215" fill="#F8551A">DANGER</text>
+      
+        <rect x="25.18683478832245" y="56.52173913043478" width="20.001719284057614" height="4.3478260869565215" fill="#D0001D"></rect>
+        <text x="26.68683478832245" y="60.21739130434783" font-family="Pangolin" font-size="4.3478260869565215" fill="#FDA223">STRONG</text>
+      
+        <rect x="45.188554072380064" y="56.52173913043478" width="12.13244318962097" height="4.3478260869565215" fill="#EAEFF0"></rect>
+        <text x="46.688554072380064" y="60.21739130434783" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">FALL</text>
+      
+        <rect x="57.320997262001036" y="56.52173913043478" width="19.162272453308105" height="4.3478260869565215" fill="#D0001D"></rect>
+        <text x="58.820997262001036" y="60.21739130434783" font-family="Pangolin" font-size="4.3478260869565215" fill="#EAEFF0">HIDDEN</text>
+      
+        <rect x="76.48326971530915" y="56.52173913043478" width="19.162272453308105" height="4.3478260869565215" fill="#0D5436"></rect>
+        <text x="77.98326971530915" y="60.21739130434783" font-family="Pangolin" font-size="4.3478260869565215" fill="#101624">KNOWN</text>
+      </g><g>
+        <rect x="4.899440455436711" y="60.8695652173913" width="21.8608115196228" height="4.3478260869565215" fill="#D0001D"></rect>
+        <text x="6.399440455436711" y="64.56521739130434" font-family="Pangolin" font-size="4.3478260869565215" fill="#EAEFF0">VICTORY</text>
+      
+        <rect x="26.76025197505951" y="60.8695652173913" width="23.06065111160278" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="28.26025197505951" y="64.56521739130434" font-family="Pangolin" font-size="4.3478260869565215" fill="#101624">CORRUPT</text>
+      
+        <rect x="49.82090308666229" y="60.8695652173913" width="12.499427270889282" height="4.3478260869565215" fill="#D0001D"></rect>
+        <text x="51.32090308666229" y="64.56521739130434" font-family="Pangolin" font-size="4.3478260869565215" fill="#EAEFF0">LOSE</text>
+      
+        <rect x="62.32033035755157" y="60.8695652173913" width="21.669628143310547" height="4.3478260869565215" fill="#F8551A"></rect>
+        <text x="63.82033035755157" y="64.56521739130434" font-family="Pangolin" font-size="4.3478260869565215" fill="#D0001D">PRESENT</text>
+      
+        <rect x="83.98995850086212" y="60.8695652173913" width="11.110601043701172" height="4.3478260869565215" fill="#D0001D"></rect>
+        <text x="85.48995850086212" y="64.56521739130434" font-family="Pangolin" font-size="4.3478260869565215" fill="#F8551A">WAR</text>
+      </g><g>
+        <rect x="12.870900654792791" y="65.21739130434783" width="17.219674444198606" height="4.3478260869565215" fill="#101624"></rect>
+        <text x="14.370900654792791" y="68.91304347826087" font-family="Pangolin" font-size="4.3478260869565215" fill="#D0001D">SILENT</text>
+      
+        <rect x="30.090575098991398" y="65.21739130434783" width="16.762593269348145" height="4.3478260869565215" fill="#101624"></rect>
+        <text x="31.590575098991398" y="68.91304347826087" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">DECAY</text>
+      
+        <rect x="46.85316836833954" y="65.21739130434783" width="14.9957959651947" height="4.3478260869565215" fill="#093588"></rect>
+        <text x="48.35316836833954" y="68.91304347826087" font-family="Pangolin" font-size="4.3478260869565215" fill="#F8551A">ALIVE</text>
+      
+        <rect x="61.84896433353424" y="65.21739130434783" width="12.78070774078369" height="4.3478260869565215" fill="#EAEFF0"></rect>
+        <text x="63.34896433353424" y="68.91304347826087" font-family="Pangolin" font-size="4.3478260869565215" fill="#093588">FEAR</text>
+      
+        <rect x="74.62967207431794" y="65.21739130434783" width="12.499427270889282" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="76.12967207431794" y="68.91304347826087" font-family="Pangolin" font-size="4.3478260869565215" fill="#D0001D">FULL</text>
+      </g><g>
+        <rect x="1.9866434574127254" y="69.56521739130434" width="25.003248023986814" height="4.3478260869565215" fill="#F8551A"></rect>
+        <text x="3.4866434574127254" y="73.26086956521739" font-family="Pangolin" font-size="4.3478260869565215" fill="#D0001D">DISORDER</text>
+      
+        <rect x="26.98989148139954" y="69.56521739130434" width="21.11146068572998" height="4.3478260869565215" fill="#101624"></rect>
+        <text x="28.48989148139954" y="73.26086956521739" font-family="Pangolin" font-size="4.3478260869565215" fill="#EAEFF0">FRAGILE</text>
+      
+        <rect x="48.10135216712952" y="69.56521739130434" width="21.8608115196228" height="4.3478260869565215" fill="#EAEFF0"></rect>
+        <text x="49.60135216712952" y="73.26086956521739" font-family="Pangolin" font-size="4.3478260869565215" fill="#FDA223">VICTORY</text>
+      
+        <rect x="69.96216368675232" y="69.56521739130434" width="14.9957959651947" height="4.3478260869565215" fill="#0D5436"></rect>
+        <text x="71.46216368675232" y="73.26086956521739" font-family="Pangolin" font-size="4.3478260869565215" fill="#093588">ALIVE</text>
+      
+        <rect x="84.95795965194702" y="69.56521739130434" width="13.055396890640258" height="4.3478260869565215" fill="#101624"></rect>
+        <text x="86.45795965194702" y="73.26086956521739" font-family="Pangolin" font-size="4.3478260869565215" fill="#093588">REAL</text>
+      </g><g>
+        <rect x="7.637535119056707" y="73.91304347826086" width="13.888252401351927" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="9.137535119056707" y="77.6086956521739" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">LOUD</text>
+      
+        <rect x="21.525787520408635" y="73.91304347826086" width="13.888252401351927" height="4.3478260869565215" fill="#D0001D"></rect>
+        <text x="23.025787520408635" y="77.6086956521739" font-family="Pangolin" font-size="4.3478260869565215" fill="#093588">LOUD</text>
+      
+        <rect x="35.41403992176056" y="73.91304347826086" width="25.003248023986814" height="4.3478260869565215" fill="#F8551A"></rect>
+        <text x="36.91403992176056" y="77.6086956521739" font-family="Pangolin" font-size="4.3478260869565215" fill="#FDA223">DISORDER</text>
+      
+        <rect x="60.417287945747375" y="73.91304347826086" width="18.61509199142456" height="4.3478260869565215" fill="#EAEFF0"></rect>
+        <text x="61.917287945747375" y="77.6086956521739" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">ESCAPE</text>
+      
+        <rect x="79.03237993717194" y="73.91304347826086" width="13.33008494377136" height="4.3478260869565215" fill="#101624"></rect>
+        <text x="80.53237993717194" y="77.6086956521739" font-family="Pangolin" font-size="4.3478260869565215" fill="#093588">LOVE</text>
+      </g><g>
+        <rect x="8.704424715042123" y="78.26086956521739" width="14.354123830795286" height="4.3478260869565215" fill="#D0001D"></rect>
+        <text x="10.204424715042123" y="81.95652173913044" font-family="Pangolin" font-size="4.3478260869565215" fill="#F8551A">FAITH</text>
+      
+        <rect x="23.05854854583741" y="78.26086956521739" width="12.13244318962097" height="4.3478260869565215" fill="#101624"></rect>
+        <text x="24.55854854583741" y="81.95652173913044" font-family="Pangolin" font-size="4.3478260869565215" fill="#EAEFF0">FALL</text>
+      
+        <rect x="35.19099173545838" y="78.26086956521739" width="17.221872282028198" height="4.3478260869565215" fill="#D0001D"></rect>
+        <text x="36.69099173545838" y="81.95652173913044" font-family="Pangolin" font-size="4.3478260869565215" fill="#EAEFF0">ANGER</text>
+      
+        <rect x="52.412864017486584" y="78.26086956521739" width="17.221872282028198" height="4.3478260869565215" fill="#EAEFF0"></rect>
+        <text x="53.912864017486584" y="81.95652173913044" font-family="Pangolin" font-size="4.3478260869565215" fill="#F8551A">DOUBT</text>
+      
+        <rect x="69.63473629951478" y="78.26086956521739" width="21.660838985443114" height="4.3478260869565215" fill="#F8551A"></rect>
+        <text x="71.13473629951478" y="81.95652173913044" font-family="Pangolin" font-size="4.3478260869565215" fill="#FDA223">VIOLENT</text>
+      </g><g>
+        <rect x="8.329750943183903" y="82.6086956521739" width="16.94938097000122" height="4.3478260869565215" fill="#EAEFF0"></rect>
+        <text x="9.829750943183903" y="86.30434782608695" font-family="Pangolin" font-size="4.3478260869565215" fill="#FDA223">CHAOS</text>
+      
+        <rect x="25.27913191318512" y="82.6086956521739" width="14.721107912063598" height="4.3478260869565215" fill="#093588"></rect>
+        <text x="26.77913191318512" y="86.30434782608695" font-family="Pangolin" font-size="4.3478260869565215" fill="#EAEFF0">FIGHT</text>
+      
+        <rect x="40.00023982524872" y="82.6086956521739" width="10.835912990570067" height="4.3478260869565215" fill="#EAEFF0"></rect>
+        <text x="41.50023982524872" y="86.30434782608695" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">RISE</text>
+      
+        <rect x="50.836152815818785" y="82.6086956521739" width="20.832376956939697" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="52.336152815818785" y="86.30434782608695" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">DANGER</text>
+      
+        <rect x="71.66852977275849" y="82.6086956521739" width="20.001719284057614" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="73.16852977275849" y="86.30434782608695" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">STRONG</text>
+      </g><g>
+        <rect x="3.605107545852661" y="86.95652173913044" width="15.835243892669677" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="5.105107545852661" y="90.65217391304348" font-family="Pangolin" font-size="4.3478260869565215" fill="#F8551A">TRUST</text>
+      
+        <rect x="19.440351438522338" y="86.95652173913044" width="12.220343542098998" height="4.3478260869565215" fill="#D0001D"></rect>
+        <text x="20.940351438522338" y="90.65217391304348" font-family="Pangolin" font-size="4.3478260869565215" fill="#093588">WISE</text>
+      
+        <rect x="31.660694980621336" y="86.95652173913044" width="13.33008494377136" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="33.16069498062134" y="90.65217391304348" font-family="Pangolin" font-size="4.3478260869565215" fill="#EAEFF0">LOVE</text>
+      
+        <rect x="44.9907799243927" y="86.95652173913044" width="21.8608115196228" height="4.3478260869565215" fill="#101624"></rect>
+        <text x="46.4907799243927" y="90.65217391304348" font-family="Pangolin" font-size="4.3478260869565215" fill="#EAEFF0">VICTORY</text>
+      
+        <rect x="66.8515914440155" y="86.95652173913044" width="12.78070774078369" height="4.3478260869565215" fill="#D0001D"></rect>
+        <text x="68.3515914440155" y="90.65217391304348" font-family="Pangolin" font-size="4.3478260869565215" fill="#101624">FEAR</text>
+      
+        <rect x="79.6322991847992" y="86.95652173913044" width="16.762593269348145" height="4.3478260869565215" fill="#FDA223"></rect>
+        <text x="81.1322991847992" y="90.65217391304348" font-family="Pangolin" font-size="4.3478260869565215" fill="#101624">DECAY</text>
+      </g><g>
+        <rect x="9.86251087188721" y="91.30434782608695" width="23.610029411315917" height="4.3478260869565215" fill="#F8551A"></rect>
+        <text x="11.36251087188721" y="95" font-family="Pangolin" font-size="4.3478260869565215" fill="#0D5436">CONTROL</text>
+      
+        <rect x="33.47254028320313" y="91.30434782608695" width="17.777841901779173" height="4.3478260869565215" fill="#F8551A"></rect>
+        <text x="34.97254028320313" y="95" font-family="Pangolin" font-size="4.3478260869565215" fill="#FDA223">BOUND</text>
+      
+        <rect x="51.2503821849823" y="91.30434782608695" width="23.610029411315917" height="4.3478260869565215" fill="#101624"></rect>
+        <text x="52.7503821849823" y="95" font-family="Pangolin" font-size="4.3478260869565215" fill="#FDA223">CONTROL</text>
+      
+        <rect x="74.86041159629822" y="91.30434782608695" width="15.277077531814575" height="4.3478260869565215" fill="#D0001D"></rect>
+        <text x="76.36041159629822" y="95" font-family="Pangolin" font-size="4.3478260869565215" fill="#FDA223">VOICE</text>
+      </g><g>
+        <rect x="6.179489064216618" y="95.65217391304347" width="21.669628143310547" height="4.3478260869565215" fill="#101624"></rect>
+        <text x="7.679489064216618" y="99.34782608695652" font-family="Pangolin" font-size="4.3478260869565215" fill="#D0001D">PRESENT</text>
+      
+        <rect x="27.849117207527165" y="95.65217391304347" width="15.277077531814575" height="4.3478260869565215" fill="#093588"></rect>
+        <text x="29.349117207527165" y="99.34782608695652" font-family="Pangolin" font-size="4.3478260869565215" fill="#EAEFF0">VOICE</text>
+      
+        <rect x="43.12619473934174" y="95.65217391304347" width="27.633665084838864" height="4.3478260869565215" fill="#0D5436"></rect>
+        <text x="44.62619473934174" y="99.34782608695652" font-family="Pangolin" font-size="4.3478260869565215" fill="#101624">CERTAINTY</text>
+      
+        <rect x="70.75985982418061" y="95.65217391304347" width="23.06065111160278" height="4.3478260869565215" fill="#D0001D"></rect>
+        <text x="72.25985982418061" y="99.34782608695652" font-family="Pangolin" font-size="4.3478260869565215" fill="#101624">CORRUPT</text>
+      </g></g></svg>

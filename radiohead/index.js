@@ -5,6 +5,24 @@ const svg = document.getElementById('svg');
 
 GUI.addRange('Lines', 23, '', { min: 5, max: 30, name: 'lines' });
 GUI.addTextArea('Words', 'FEAR CONTROL TRUTH LIES HATE TRUST CORRUPT POWER MONEY FAITH JUSTICE CHAOS DREAM LIBERTY WAR PEACE DECEIVE HOPE TERROR LOVE FUTURE VOICE CHANGE REVOLT SILENCE FREEDOM GREED RISE FALL BELIEVE UNITE BREAK BUILD FAKE REAL ANGER JOY DARK LIGHT NOISE QUIET STRENGTH WEAKNESS CONTROL ESCAPE LOST FOUND OPEN CLOSE WIN LOSE FIGHT SUBMIT RULE ANARCHY FREE BOUND PEACEFUL VIOLENT LEADER FOLLOWER EMPTY FULL VICTORY DEFEAT FAITHFUL FAITHLESS KNOWN UNKNOWN SAFE DANGER SILENT LOUD ORDER DISORDER ALIVE DEAD VISION BLIND WISE FOOL RISE DECAY HEAL WOUND DOUBT CERTAINTY VISIBLE HIDDEN STRONG FRAGILE OPEN CLOSE PRESENT ABSENT CONNECTED DETACHED', '', { name: 'words' });
+GUI.addSelect('Palette', 'Stanley Donwood', '', { 
+  options: [
+    {
+      key: 'Stanley Donwood',
+      value: '#D0001D #0D5436 #093588 #FDA223 #F8551A #101624 #EAEFF0'
+    },
+		{
+			key:  'Pink Caviar',
+			value: '#DDC09B #DDD8B9 #4B3985 #D96028 #3B0B04 #9F9C99 #437D3D #F7C945 #F3F0E7 #020003 #191B59 #A22017'
+		},
+		{
+			key:  'Masonite', 
+			value: '#BB3331 #8A8D95 #F3D654 #882D2F #463781 #A16834 #47A2CD #C75C91 #E2713C #273D78 #999DA1 #DF6738 #885F54 #204E3E #D1C74C #2B6767',
+			extra: '#141414 #C13431 #3581C0 #2C674A #28638A #C74533 #66589F #E37242 #9594A1 #2A634A #7A8EAD #C4893D #244C94 #BB7142 #E9973E #D75235',
+		}
+  ],
+  name: 'palette'
+});
 GUI.addRange('Scale', 0.95, '', { min: 0, max: 1, step: 0.025, name: 'scale' });
 GUI.addCheckbox('Filter', true, '', { name: 'filter', checked: 'checked' });
 common.commonConfig(GUI, '#1C1D1E');
@@ -15,7 +33,7 @@ common.init(GUI, storageKey, []);
 
 function radiohead(svg, controls) {
   const { width, height } = common.getViewBox(svg);
-  const colors = ['#D0001D', '#0D5436', '#093588', '#FDA223', '#F8551A', '#101624', '#EAEFF0'];
+  const colors = controls.palette.value.split(/\s+/);
 	const filter = controls.filter.checked;
   const lines = controls.lines.valueAsNumber;
   const scale = controls.scale.valueAsNumber;
