@@ -1,6 +1,6 @@
 import * as common from '../common.js';
 const GUI = document.querySelector('gui-control');
-const storageKey = 'metatron';
+const storageKey = 'metatronother';
 const svg = document.getElementById('svg');
 GUI.addRange('Radius', 9, '', { min: 1, max: 50, step: 0.1, name: 'radius' });
 GUI.addColor('Line color', '#f075f0', '', { name: 'stroke' });

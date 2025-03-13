@@ -1,6 +1,6 @@
 import * as common from '../common.js';
 const GUI = document.querySelector('gui-control');
-const storageKey = 'metatron';
+const storageKey = 'merkaba';
 const svg = document.getElementById('svg');
 GUI.addColor('Line color', '#00FFFF', '', { name: 'stroke' });
 GUI.addRange('Line opacity', 0.75, '', { min: 0.01, max: 1, step: 0.01, name: 'strokeopacity' });

@@ -1,6 +1,6 @@
 import * as common from '../common.js';
 const GUI = document.querySelector('gui-control');
-const storageKey = 'ringsdots';
+const storageKey = 'lunarechoes';
 const svg = document.getElementById('svg');
 
 GUI.addRange('Rings', 12, '', { min: 1, max: 30, name: 'numrings' });

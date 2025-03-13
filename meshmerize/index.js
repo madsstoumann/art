@@ -1,6 +1,6 @@
 import * as common from '../common.js';
 const GUI = document.querySelector('gui-control');
-const storageKey = 'mesh';
+const storageKey = 'meshmerize';
 const svg = document.getElementById('svg');
 
 GUI.addRange('Lines X', 10, '', { min: 1, max: 50, value: 10, name: 'xlines' });

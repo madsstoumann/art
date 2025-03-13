@@ -9,7 +9,7 @@ GUI.addRange('Arcs CCW', 42, '', { min: 0, max: 100, name: 'arcsccw' });
 GUI.addRange('Min. radius', 4, '', { min: 0, max: 40, name: 'radiusmin' });
 GUI.addRange('Max. radius', 46, '', { min: 10, max: 100, name: 'radiusmax' });
 GUI.addColor('Line color', '#6c3361', '', { name: 'stroke' });
-GUI.addRange('Line width', 0.06, '', { min: 0, max: 1.4, step: 0.01, name: 'strokewidth' });
+GUI.addRange('Line width', 0.15, '', { min: 0, max: 1.4, step: 0.01, name: 'strokewidth' });
 GUI.addColor('Start color', '#ff3773', '', { name: 'startcolor' });
 GUI.addColor('End color', '#8c9dd9', '', { name: 'endcolor' });
 common.commonConfig(GUI, '#6c3361');

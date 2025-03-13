@@ -1,6 +1,6 @@
 import * as common from '../common.js';
 const GUI = document.querySelector('gui-control');
-const storageKey = 'natraja';
+const storageKey = 'nataraja';
 const svg = document.getElementById('svg');
 
 GUI.addRange('Columns', 20, '', { min: 1, max: 50, value: 10, name: 'columns' });
