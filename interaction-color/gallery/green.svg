@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" id="svg" style="--frame-c: #f6c6a4; --frame-bdw: 1em; background-color: rgb(120, 237, 177); --frame-asr: 100 / 100.;">
+		<g>
+			<rect x="26.25" y="0" width="47.5" height="12.5" fill="hsl(174.88888888888889, 80.70093457943926%, 68.9607843137255%)" transform="rotate(-4) translate(0 11)"></rect>
+			
+			<rect x="26.25" y="12.5" width="47.5" height="12.5" fill="hsl(174.88888888888889, 76.70093457943926%, 53.96078431372549%)" transform="rotate(4) translate(5 1.5)"></rect>
+			
+			<rect x="26.25" y="25" width="47.5" height="12.5" fill="hsl(162.88888888888889, 72.70093457943926%, 60.96078431372549%)" transform="rotate(-2) translate(5 10.5)"></rect>
+			
+			<rect x="26.25" y="37.5" width="47.5" height="12.5" fill="hsl(163.88888888888889, 66.70093457943926%, 45.96078431372549%)" transform="rotate(-2.5) translate(-6 5.5)"></rect>
+			
+			<rect x="26.25" y="50" width="47.5" height="12.5" fill="hsl(160.88888888888889, 78.70093457943926%, 70.9607843137255%)" transform="rotate(12) translate(22.5 -12)"></rect>
+			
+			<rect x="26.25" y="62.5" width="47.5" height="12.5" fill="hsl(156.88888888888889, 42.70093457943926%, 53.96078431372549%)" transform="rotate(0.51) translate(15 -1)"></rect>
+			
+			<rect x="26.25" y="87.5" width="47.5" height="12.5" fill="hsl(148.88888888888889, 75.70093457943926%, 41.96078431372549%)" transform="rotate(4.5) translate(10 -12)"></rect>
+				
+			<rect x="26.25" y="75" width="47.5" height="12.5" fill="hsl(175.88888888888889, 82.70093457943926%, 54.96078431372549%)" transform="translate(7.5 -5.5)"></rect>
+		</g></svg>
