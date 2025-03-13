@@ -1,6 +1,6 @@
 import * as common from '../common.js';
 const GUI = document.querySelector('gui-control');
-const storageKey = 'words';
+const storageKey = 'seaofwords';
 const svg = document.getElementById('svg');
 
 GUI.addRange('Lines', 25, '', { min: 2, max: 50, name: 'lines' });

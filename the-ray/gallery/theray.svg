@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" id="svg" style="--frame-c: #f6c6a4; --frame-bdw: 1em; background-color: rgb(255, 255, 255); --frame-asr: 100 / 100.;">
+    <defs>
+      
+    <pattern id="stripes-#444444-#ffffff" width="100%" height="1.6666666666666667" patternUnits="userSpaceOnUse">
+      <rect width="100%" height="0.8333333333333334" fill="#444444"></rect>
+      <rect y="0.8333333333333334" width="100%" height="0.8333333333333334" fill="#ffffff"></rect>
+    </pattern>
+      
+    <pattern id="stripes-#e4473d-#ffffff" width="100%" height="1.6666666666666667" patternUnits="userSpaceOnUse">
+      <rect width="100%" height="0.8333333333333334" fill="#e4473d"></rect>
+      <rect y="0.8333333333333334" width="100%" height="0.8333333333333334" fill="#ffffff"></rect>
+    </pattern>
+      
+    <pattern id="stripes-#444444-#e4473d" width="100%" height="1.6666666666666667" patternUnits="userSpaceOnUse">
+      <rect width="100%" height="0.8333333333333334" fill="#444444"></rect>
+      <rect y="0.8333333333333334" width="100%" height="0.8333333333333334" fill="#e4473d"></rect>
+    </pattern>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#stripes-#444444-#ffffff)"></rect>
+    <rect x="40" width="20" height="50" fill="url(#stripes-#e4473d-#ffffff)"></rect>
+    <rect x="40" y="50" width="20" height="50" fill="url(#stripes-#444444-#e4473d)"></rect></svg>

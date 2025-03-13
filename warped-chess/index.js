@@ -1,6 +1,6 @@
 import * as common from '../common.js';
 const GUI = document.querySelector('gui-control');
-const storageKey = 'chess';
+const storageKey = 'warpedchess';
 const svg = document.getElementById('svg');
 
 GUI.addRange('Grid Size', 15, '', { min: 3, max: 40, name: 'gridsize' });

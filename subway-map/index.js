@@ -4,6 +4,28 @@ const storageKey = 'subwaymap';
 const svg = document.getElementById('svg');
 
 GUI.addRange('Lines', 8, '', { min: 2, max: 20, name: 'lines' });
+GUI.addSelect('Palette', 'Subway', '', { 
+  options: [
+    {
+      key: 'Subway',
+      value: '#FF0A0A #008D41 #009CD3 #FFC600 #FF6319 #6CBE45 #FF8080 #80C6A0 #80CEE9 #FFE380 #FFB18C #B5DFA2'
+    },
+    {
+      key: 'Stanley Donwood',
+      value: '#D0001D #0D5436 #093588 #FDA223 #F8551A #101624 #EAEFF0'
+    },
+		{
+			key:  'Pink Caviar',
+			value: '#DDC09B #DDD8B9 #4B3985 #D96028 #3B0B04 #9F9C99 #437D3D #F7C945 #F3F0E7 #020003 #191B59 #A22017'
+		},
+		{
+			key:  'Masonite', 
+			value: '#BB3331 #8A8D95 #F3D654 #882D2F #463781 #A16834 #47A2CD #C75C91 #E2713C #273D78 #999DA1 #DF6738 #885F54 #204E3E #D1C74C #2B6767',
+			extra: '#141414 #C13431 #3581C0 #2C674A #28638A #C74533 #66589F #E37242 #9594A1 #2A634A #7A8EAD #C4893D #244C94 #BB7142 #E9973E #D75235',
+		}
+  ],
+  name: 'palette'
+});
 common.commonConfig(GUI, '#E7E7E7');
 GUI.addEventListener('gui-input', (event) => common.handleGuiEvent(event, svg, GUI, storageKey, subwayMap));
 common.init(GUI, storageKey, []);
@@ -17,10 +39,7 @@ function subwayMap(svg, controls) {
   const elements = [];
   
   // Original colors and their lighter versions
-  const colors = [
-    '#FF0A0A', '#008D41', '#009CD3', '#FFC600', '#FF6319', '#6CBE45',
-    '#FF8080', '#80C6A0', '#80CEE9', '#FFE380', '#FFB18C', '#B5DFA2'
-  ];
+  const colors = controls.palette.value.split(' ');
 
   const generateSubwayLine = () => {
     const points = [];
