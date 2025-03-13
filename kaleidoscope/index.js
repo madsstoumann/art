@@ -1,13 +1,13 @@
 import * as common from '../common.js';
 import Delaunay from '../delaunay.js';
 const GUI = document.querySelector('gui-control');
-const storageKey = 'triangles';
+const storageKey = 'kaleidoscope';
 const svg = document.getElementById('svg');
 
 GUI.addRange('Points', 170, '', { min: 3, max: 512, name: 'numpoints' });
 
 GUI.addColor('Line color', '#FFFFFF', '', { name: 'stroke' });
-GUI.addRange('Line width', 0.05, '', { min: 0, max: 1.4, step: 0.01, name: 'strokewidth' });
+GUI.addRange('Line width', 0.15, '', { min: 0, max: 1.4, step: 0.01, name: 'strokewidth' });
 GUI.addColor('Start color', '#d92926', '', { name: 'startcolor' });
 GUI.addColor('End color', '#993366', '', { name: 'endcolor' });
 GUI.addCheckbox('Square', '1', '', { 'data-unchecked': '0', name: 'square' });

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" id="svg" fill="none" style="--frame-c: #f6c6a4; --frame-bdw: 1em; stroke: rgba(243, 200, 249, 0.35); background-color: rgb(187, 27, 120); --frame-asr: 100 / 100.;"><g transform="translate(50 50) scale(0.95)">
+    <circle cx="0" cy="0" r="50" stroke-width="0.25" fill="none"></circle>
+    <g transform="rotate(0)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.25" fill="hsla(292.65306122448976, 80.32786885245903%, 88.0392156862745%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.25"></line>
+    </g>
+    <g transform="rotate(51.42857142857143)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.25" fill="hsla(292.65306122448976, 80.32786885245903%, 88.0392156862745%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.25"></line>
+    </g>
+    <g transform="rotate(102.85714285714286)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.25" fill="hsla(292.65306122448976, 80.32786885245903%, 88.0392156862745%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.25"></line>
+    </g>
+    <g transform="rotate(154.28571428571428)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.25" fill="hsla(292.65306122448976, 80.32786885245903%, 88.0392156862745%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.25"></line>
+    </g>
+    <g transform="rotate(205.71428571428572)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.25" fill="hsla(292.65306122448976, 80.32786885245903%, 88.0392156862745%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.25"></line>
+    </g>
+    <g transform="rotate(257.14285714285717)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.25" fill="hsla(292.65306122448976, 80.32786885245903%, 88.0392156862745%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.25"></line>
+    </g>
+    <g transform="rotate(308.57142857142856)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.25" fill="hsla(292.65306122448976, 80.32786885245903%, 88.0392156862745%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.25"></line>
+    </g>
+    
+  </g></svg>

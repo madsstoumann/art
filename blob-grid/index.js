@@ -1,7 +1,7 @@
 import * as common from '../common.js';
 
 const GUI = document.querySelector('gui-control');
-const storageKey = 'circlegrid';
+const storageKey = 'blobgrid';
 const svg = document.getElementById('svg');
 
 GUI.addRange('Cols', 15, '', { min: 1, max: 50, name: 'columns' });

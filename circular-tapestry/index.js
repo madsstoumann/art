@@ -1,6 +1,6 @@
 import * as common from '../common.js';
 const GUI = document.querySelector('gui-control');
-const storageKey = 'wheel';
+const storageKey = 'circulartapestry';
 const svg = document.getElementById('svg');
 
 GUI.addRange('Rings', 12, '', { min: 1, max: 30, name: 'numrings' });
@@ -10,7 +10,7 @@ GUI.addColor('End hue', '#0000ff', '', { name: 'endhue' });
 GUI.addRange('Rotate min.', 0, '', { min: 1, max: 30, name: 'rotatemin', value: 0 });
 GUI.addRange('Rotate max.', 180, '', { min: 0, max: 360, name: 'rotatemax' });
 GUI.addRange('Scale', 0.9, '', { min: 0, max: 2, step: 0.025, name: 'scale' });
-common.commonConfig(GUI, '#3fa673');
+common.commonConfig(GUI, '#a63f3f');
 GUI.addEventListener('gui-input', (event) => common.handleGuiEvent(event, svg, GUI, storageKey, wheel));
 common.init(GUI, storageKey, []);
 

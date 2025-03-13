@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" id="svg" fill="none" style="--frame-c: #f6c6a4; --frame-bdw: 1em; stroke: rgba(27, 100, 100, 0.01); background-color: rgb(10, 38, 8); --frame-asr: 100 / 100.;"><g transform="translate(50 50) scale(1.5)">
+    <circle cx="0" cy="0" r="50" stroke-width="0.01" fill="none"></circle>
+    <g transform="rotate(0)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.01" fill="hsla(180, 57.48031496062992%, 24.901960784313726%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.01"></line>
+    </g>
+    <g transform="rotate(17.142857142857142)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.01" fill="hsla(180, 57.48031496062992%, 24.901960784313726%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.01"></line>
+    </g>
+    <g transform="rotate(34.285714285714285)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.01" fill="hsla(180, 57.48031496062992%, 24.901960784313726%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.01"></line>
+    </g>
+    <g transform="rotate(51.42857142857143)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.01" fill="hsla(180, 57.48031496062992%, 24.901960784313726%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.01"></line>
+    </g>
+    <g transform="rotate(68.57142857142857)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.01" fill="hsla(180, 57.48031496062992%, 24.901960784313726%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.01"></line>
+    </g>
+    <g transform="rotate(85.71428571428571)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.01" fill="hsla(180, 57.48031496062992%, 24.901960784313726%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.01"></line>
+    </g>
+    <g transform="rotate(102.85714285714286)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.01" fill="hsla(180, 57.48031496062992%, 24.901960784313726%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.01"></line>
+    </g>
+    <g transform="rotate(120)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.01" fill="hsla(180, 57.48031496062992%, 24.901960784313726%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.01"></line>
+    </g>
+    <g transform="rotate(137.14285714285714)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.01" fill="hsla(180, 57.48031496062992%, 24.901960784313726%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.01"></line>
+    </g>
+    <g transform="rotate(154.28571428571428)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.01" fill="hsla(180, 57.48031496062992%, 24.901960784313726%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.01"></line>
+    </g>
+    <g transform="rotate(171.42857142857142)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.01" fill="hsla(180, 57.48031496062992%, 24.901960784313726%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.01"></line>
+    </g>
+    <g transform="rotate(188.57142857142856)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.01" fill="hsla(180, 57.48031496062992%, 24.901960784313726%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.01"></line>
+    </g>
+    <g transform="rotate(205.71428571428572)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.01" fill="hsla(180, 57.48031496062992%, 24.901960784313726%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.01"></line>
+    </g>
+    <g transform="rotate(222.85714285714286)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.01" fill="hsla(180, 57.48031496062992%, 24.901960784313726%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.01"></line>
+    </g>
+    <g transform="rotate(240)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.01" fill="hsla(180, 57.48031496062992%, 24.901960784313726%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.01"></line>
+    </g>
+    <g transform="rotate(257.1428571428571)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.01" fill="hsla(180, 57.48031496062992%, 24.901960784313726%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.01"></line>
+    </g>
+    <g transform="rotate(274.2857142857143)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.01" fill="hsla(180, 57.48031496062992%, 24.901960784313726%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.01"></line>
+    </g>
+    <g transform="rotate(291.42857142857144)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.01" fill="hsla(180, 57.48031496062992%, 24.901960784313726%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.01"></line>
+    </g>
+    <g transform="rotate(308.57142857142856)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.01" fill="hsla(180, 57.48031496062992%, 24.901960784313726%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.01"></line>
+    </g>
+    <g transform="rotate(325.7142857142857)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.01" fill="hsla(180, 57.48031496062992%, 24.901960784313726%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.01"></line>
+    </g>
+    <g transform="rotate(342.85714285714283)">
+      <ellipse cx="0" cy="0" rx="15" ry="50" stroke-width="0.01" fill="hsla(180, 57.48031496062992%, 24.901960784313726%, .1)"></ellipse>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke-width="0.01"></line>
+    </g>
+    
+  </g></svg>

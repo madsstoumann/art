@@ -1,10 +1,10 @@
 import * as common from '../common.js';
 
 const GUI = document.querySelector('gui-control');
-const storageKey = 'ellipse';
+const storageKey = 'harmonicbloom';
 const svg = document.getElementById('svg');
 GUI.addRange('Ellipses', 12, '', { min: 3, max: 21, step: 2, name: 'ellipses' });
-GUI.addColor('Line color', '#00FFFF', '', { name: 'stroke' });
+GUI.addColor('Color', '#00FFFF', '', { name: 'strokecolor' });
 GUI.addRange('Line opacity', 0, '', { min: 0.01, max: 1, step: 0.01, name: 'strokeopacity', value: 0 });
 GUI.addRange('Line width', 0, '', { min: 0.01, max: 1, step: 0.01, name: 'linestrokewidth', value: 0 });
 GUI.addRange('Scale', .95, '', { min: 0, max: 2, step: 0.025, name: 'scale' });
@@ -18,7 +18,7 @@ function harmonicBloom(svg, controls) {
   const { width, height } = common.getViewBox(svg);
   const numEllipses = controls.ellipses.valueAsNumber;
   const scale = controls.scale.valueAsNumber;
-  const stroke = controls.stroke.value;
+  const stroke = controls.strokecolor.value;
   const strokeOpacity = controls.strokeopacity.valueAsNumber;
   const strokeWidth = controls.linestrokewidth.valueAsNumber;
 

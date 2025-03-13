@@ -6,7 +6,7 @@ const svg = document.getElementById('svg');
 
 GUI.addRange('Cols', 5, '', { min: 1, max: 12, name: 'columns' });
 GUI.addRange('Rows', 5, '', { min: 1, max: 12, name: 'rows' });
-GUI.addSelect('Render', '', '', { 
+GUI.addSelect('Render', 'Square Circle', '', { 
   options: [
 		{
 			key: 'Squares',
@@ -20,10 +20,10 @@ GUI.addSelect('Render', '', '', {
 			key: 'Lines',
 			value: 'lines'
 		}
-  ], 
+  ],
   name: 'render'
 });
-GUI.addSelect('Palette', '', '', { 
+GUI.addSelect('Palette', 'Masonite', '', { 
   options: [
 		{
 			key: 'Untitled 1966—67 A',

@@ -1,7 +1,7 @@
 import * as common from '../common.js';
 
 const GUI = document.querySelector('gui-control');
-const storageKey = 'crawlers';
+const storageKey = 'creepycrawlers';
 const svg = document.getElementById('svg');
 
 GUI.addRange('Crawlers', 5, '', { min: 1, max: 20, name: 'crawlers' });

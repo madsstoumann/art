@@ -1,15 +1,15 @@
 import * as common from '../common.js';
 
 const GUI = document.querySelector('gui-control');
-const storageKey = 'connect';
+const storageKey = 'cosmiclattice';
 const svg = document.getElementById('svg');
 
 GUI.addRange('Points', 16, '', { min: 3, max: 42, name: 'numpoints' });
 GUI.addColor('Line color', '#0dccf2', '', { name: 'stroke' });
 GUI.addRange('Line width', 0.1, '', { min: 0, max: 1, step: 0.01, value: 0, name: 'linestrokewidth' });
-GUI.addCheckbox('Randomize', false, '', { name: 'randomize' });
+GUI.addCheckbox('Randomize', false, '', { name: 'randomize', checked: 'checked' });
 GUI.addRange('Scale', 0.95, '', { min: 0, max: 2, step: 0.025, name: 'scale' });
-common.commonConfig(GUI, '#270c0c');
+common.commonConfig(GUI, '#000000');
 GUI.addEventListener('gui-input', (event) => common.handleGuiEvent(event, svg, GUI, storageKey, connectPoints));
 common.init(GUI, storageKey, []);
 
@@ -34,7 +34,6 @@ function connectPoints(svg, controls) {
       const strokeWidth = common.random(3, 30) / width;
       svg.style.setProperty('stroke-width', lineStrokeWidth);
       if (randomize) {
-        // svg.style.removeProperty('stroke-width');
       } else {
         
       }

@@ -1,0 +1,1134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" id="svg" style="--frame-c: #f6c6a4; --frame-bdw: 1em; background-color: rgb(0, 97, 254); --frame-asr: 100 / 100.;">
+	<defs>
+		<clipPath id="clipPath8953">
+			<rect width="6.666666666666667" height="6.666666666666667"></rect>
+		</clipPath>
+	</defs>
+	<g>
+		
+		<g transform="translate(0, 0) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(58, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(58, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(6.666666666666667, 0) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(182, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(182, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(13.333333333333334, 0) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(302, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(302, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(20, 0) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(23, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(23, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(26.666666666666668, 0) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(271, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(271, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(33.333333333333336, 0) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(179, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(179, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(40, 0) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(178, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(178, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(46.66666666666667, 0) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(303, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(303, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(53.333333333333336, 0) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(232, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(232, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(60, 0) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(305, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(305, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(66.66666666666667, 0) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(248, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(248, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(73.33333333333334, 0) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(257, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(257, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(80, 0) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(13, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(13, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(86.66666666666667, 0) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(37, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(37, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(93.33333333333334, 0) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(112, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(112, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(0, 6.666666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(249, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(249, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(6.666666666666667, 6.666666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(122, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(122, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(13.333333333333334, 6.666666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(36, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(36, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(20, 6.666666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(228, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(228, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(26.666666666666668, 6.666666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(314, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(314, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(33.333333333333336, 6.666666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(162, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(162, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(40, 6.666666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(273, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(273, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(46.66666666666667, 6.666666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(352, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(352, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(53.333333333333336, 6.666666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(278, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(278, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(60, 6.666666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(40, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(40, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(66.66666666666667, 6.666666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(357, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(357, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(73.33333333333334, 6.666666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(48, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(48, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(80, 6.666666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(189, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(189, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(86.66666666666667, 6.666666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(49, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(49, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(93.33333333333334, 6.666666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(13, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(13, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(0, 13.333333333333334) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(209, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(209, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(6.666666666666667, 13.333333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(211, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(211, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(13.333333333333334, 13.333333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(160, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(160, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(20, 13.333333333333334) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(27, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(27, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(26.666666666666668, 13.333333333333334) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(296, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(296, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(33.333333333333336, 13.333333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(116, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(116, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(40, 13.333333333333334) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(286, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(286, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(46.66666666666667, 13.333333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(232, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(232, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(53.333333333333336, 13.333333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(245, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(245, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(60, 13.333333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(197, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(197, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(66.66666666666667, 13.333333333333334) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(346, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(346, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(73.33333333333334, 13.333333333333334) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(106, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(106, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(80, 13.333333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(237, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(237, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(86.66666666666667, 13.333333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(120, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(120, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(93.33333333333334, 13.333333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(296, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(296, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(0, 20) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(173, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(173, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(6.666666666666667, 20) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(36, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(36, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(13.333333333333334, 20) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(299, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(299, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(20, 20) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(74, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(74, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(26.666666666666668, 20) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(165, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(165, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(33.333333333333336, 20) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(47, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(47, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(40, 20) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(16, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(16, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(46.66666666666667, 20) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(226, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(226, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(53.333333333333336, 20) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(270, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(270, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(60, 20) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(154, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(154, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(66.66666666666667, 20) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(311, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(311, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(73.33333333333334, 20) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(142, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(142, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(80, 20) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(350, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(350, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(86.66666666666667, 20) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(325, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(325, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(93.33333333333334, 20) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(96, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(96, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(0, 26.666666666666668) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(72, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(72, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(6.666666666666667, 26.666666666666668) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(76, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(76, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(13.333333333333334, 26.666666666666668) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(97, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(97, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(20, 26.666666666666668) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(263, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(263, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(26.666666666666668, 26.666666666666668) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(33, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(33, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(33.333333333333336, 26.666666666666668) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(44, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(44, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(40, 26.666666666666668) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(290, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(290, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(46.66666666666667, 26.666666666666668) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(30, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(30, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(53.333333333333336, 26.666666666666668) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(196, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(196, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(60, 26.666666666666668) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(316, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(316, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(66.66666666666667, 26.666666666666668) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(88, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(88, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(73.33333333333334, 26.666666666666668) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(268, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(268, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(80, 26.666666666666668) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(14, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(14, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(86.66666666666667, 26.666666666666668) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(10, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(10, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(93.33333333333334, 26.666666666666668) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(157, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(157, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(0, 33.333333333333336) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(260, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(260, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(6.666666666666667, 33.333333333333336) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(217, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(217, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(13.333333333333334, 33.333333333333336) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(162, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(162, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(20, 33.333333333333336) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(51, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(51, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(26.666666666666668, 33.333333333333336) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(30, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(30, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(33.333333333333336, 33.333333333333336) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(119, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(119, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(40, 33.333333333333336) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(253, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(253, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(46.66666666666667, 33.333333333333336) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(10, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(10, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(53.333333333333336, 33.333333333333336) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(267, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(267, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(60, 33.333333333333336) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(98, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(98, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(66.66666666666667, 33.333333333333336) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(118, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(118, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(73.33333333333334, 33.333333333333336) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(250, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(250, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(80, 33.333333333333336) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(279, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(279, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(86.66666666666667, 33.333333333333336) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(91, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(91, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(93.33333333333334, 33.333333333333336) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(219, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(219, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(0, 40) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(205, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(205, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(6.666666666666667, 40) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(286, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(286, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(13.333333333333334, 40) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(306, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(306, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(20, 40) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(235, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(235, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(26.666666666666668, 40) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(156, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(156, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(33.333333333333336, 40) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(296, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(296, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(40, 40) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(6, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(6, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(46.66666666666667, 40) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(103, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(103, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(53.333333333333336, 40) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(217, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(217, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(60, 40) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(165, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(165, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(66.66666666666667, 40) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(106, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(106, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(73.33333333333334, 40) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(202, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(202, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(80, 40) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(258, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(258, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(86.66666666666667, 40) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(9, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(9, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(93.33333333333334, 40) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(122, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(122, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(0, 46.66666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(43, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(43, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(6.666666666666667, 46.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(337, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(337, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(13.333333333333334, 46.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(168, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(168, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(20, 46.66666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(160, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(160, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(26.666666666666668, 46.66666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(44, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(44, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(33.333333333333336, 46.66666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(301, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(301, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(40, 46.66666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(67, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(67, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(46.66666666666667, 46.66666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(279, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(279, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(53.333333333333336, 46.66666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(96, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(96, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(60, 46.66666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(282, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(282, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(66.66666666666667, 46.66666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(155, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(155, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(73.33333333333334, 46.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(139, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(139, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(80, 46.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(357, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(357, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(86.66666666666667, 46.66666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(358, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(358, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(93.33333333333334, 46.66666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(213, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(213, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(0, 53.333333333333336) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(190, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(190, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(6.666666666666667, 53.333333333333336) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(352, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(352, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(13.333333333333334, 53.333333333333336) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(147, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(147, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(20, 53.333333333333336) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(42, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(42, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(26.666666666666668, 53.333333333333336) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(169, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(169, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(33.333333333333336, 53.333333333333336) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(224, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(224, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(40, 53.333333333333336) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(8, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(8, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(46.66666666666667, 53.333333333333336) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(253, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(253, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(53.333333333333336, 53.333333333333336) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(340, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(340, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(60, 53.333333333333336) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(327, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(327, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(66.66666666666667, 53.333333333333336) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(52, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(52, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(73.33333333333334, 53.333333333333336) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(191, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(191, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(80, 53.333333333333336) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(316, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(316, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(86.66666666666667, 53.333333333333336) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(20, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(20, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(93.33333333333334, 53.333333333333336) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(5, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(5, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(0, 60) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(353, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(353, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(6.666666666666667, 60) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(238, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(238, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(13.333333333333334, 60) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(35, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(35, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(20, 60) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(233, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(233, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(26.666666666666668, 60) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(34, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(34, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(33.333333333333336, 60) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(309, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(309, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(40, 60) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(60, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(60, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(46.66666666666667, 60) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(292, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(292, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(53.333333333333336, 60) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(54, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(54, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(60, 60) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(280, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(280, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(66.66666666666667, 60) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(177, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(177, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(73.33333333333334, 60) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(177, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(177, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(80, 60) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(308, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(308, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(86.66666666666667, 60) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(160, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(160, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(93.33333333333334, 60) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(281, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(281, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(0, 66.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(167, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(167, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(6.666666666666667, 66.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(218, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(218, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(13.333333333333334, 66.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(101, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(101, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(20, 66.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(298, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(298, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(26.666666666666668, 66.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(247, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(247, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(33.333333333333336, 66.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(195, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(195, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(40, 66.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(291, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(291, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(46.66666666666667, 66.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(56, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(56, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(53.333333333333336, 66.66666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(4, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(4, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(60, 66.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(355, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(355, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(66.66666666666667, 66.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(312, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(312, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(73.33333333333334, 66.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(267, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(267, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(80, 66.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(188, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(188, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(86.66666666666667, 66.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(83, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(83, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(93.33333333333334, 66.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(346, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(346, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(0, 73.33333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(29, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(29, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(6.666666666666667, 73.33333333333334) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(20, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(20, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(13.333333333333334, 73.33333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(212, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(212, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(20, 73.33333333333334) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(179, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(179, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(26.666666666666668, 73.33333333333334) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(303, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(303, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(33.333333333333336, 73.33333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(160, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(160, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(40, 73.33333333333334) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(136, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(136, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(46.66666666666667, 73.33333333333334) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(326, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(326, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(53.333333333333336, 73.33333333333334) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(166, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(166, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(60, 73.33333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(327, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(327, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(66.66666666666667, 73.33333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(239, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(239, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(73.33333333333334, 73.33333333333334) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(174, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(174, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(80, 73.33333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(278, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(278, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(86.66666666666667, 73.33333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(3, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(3, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(93.33333333333334, 73.33333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(206, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(206, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(0, 80) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(149, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(149, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(6.666666666666667, 80) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(323, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(323, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(13.333333333333334, 80) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(31, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(31, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(20, 80) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(165, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(165, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(26.666666666666668, 80) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(156, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(156, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(33.333333333333336, 80) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(228, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(228, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(40, 80) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(308, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(308, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(46.66666666666667, 80) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(76, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(76, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(53.333333333333336, 80) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(344, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(344, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(60, 80) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(355, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(355, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(66.66666666666667, 80) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(23, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(23, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(73.33333333333334, 80) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(19, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(19, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(80, 80) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(47, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(47, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(86.66666666666667, 80) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(337, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(337, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(93.33333333333334, 80) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(349, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(349, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(0, 86.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(318, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(318, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(6.666666666666667, 86.66666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(240, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(240, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(13.333333333333334, 86.66666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(235, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(235, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(20, 86.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(131, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(131, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(26.666666666666668, 86.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(172, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(172, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(33.333333333333336, 86.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(94, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(94, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(40, 86.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(255, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(255, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(46.66666666666667, 86.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(283, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(283, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(53.333333333333336, 86.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(25, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(25, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(60, 86.66666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(274, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(274, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(66.66666666666667, 86.66666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(201, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(201, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(73.33333333333334, 86.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(143, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(143, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(80, 86.66666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(229, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(229, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(86.66666666666667, 86.66666666666667) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(168, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(168, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(93.33333333333334, 86.66666666666667) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(26, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(26, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(0, 93.33333333333334) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(333, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(333, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(6.666666666666667, 93.33333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(312, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(312, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(13.333333333333334, 93.33333333333334) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(199, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(199, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(20, 93.33333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(149, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(149, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(26.666666666666668, 93.33333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(302, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(302, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(33.333333333333336, 93.33333333333334) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(352, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(352, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(40, 93.33333333333334) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(134, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(134, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(46.66666666666667, 93.33333333333334) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(243, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(243, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(53.333333333333336, 93.33333333333334) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(75, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(75, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(60, 93.33333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(97, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(97, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(66.66666666666667, 93.33333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(182, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(182, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(73.33333333333334, 93.33333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(151, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(151, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(80, 93.33333333333334) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(316, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(316, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(86.66666666666667, 93.33333333333334) rotate(0, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(215, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(215, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+		<g transform="translate(93.33333333333334, 93.33333333333334) rotate(90, 3.3333333333333335, 3.3333333333333335)" clip-path="url(#clipPath8953)">
+			<rect width="6.666666666666667" height="6.666666666666667" fill="none" stroke="#cccccc" stroke-width="0"></rect>
+			<circle cx="0" cy="0" r="3.3333333333333335" fill="none" stroke="hsl(42, 80%, 50%)" stroke-width="1"></circle>
+			<circle cx="6.666666666666667" cy="6.666666666666667" r="3.3333333333333335" fill="none" stroke="hsl(42, 80%, 50%)" stroke-width="1"></circle>
+		</g>
+	</g></svg>

@@ -1,7 +1,7 @@
 import * as common from '../common.js';
 
 const GUI = document.querySelector('gui-control');
-const storageKey = 'flowerlife';
+const storageKey = 'floweroflife';
 const svg = document.getElementById('svg');
 
 GUI.addRange('Circles', 37, '', { min: 1, max: 169, name: 'numcircles' });

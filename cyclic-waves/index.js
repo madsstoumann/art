@@ -1,7 +1,7 @@
 import * as common from '../common.js';
 
 const GUI = document.querySelector('gui-control');
-const storageKey = 'circlecircles';
+const storageKey = 'cyclicwaves';
 const svg = document.getElementById('svg');
 
 GUI.addRange('Circles', 100, '', { min: 10, max: 200, name: 'numcircles' });
