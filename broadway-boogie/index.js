@@ -4,13 +4,11 @@ const GUI = document.querySelector('gui-control');
 const storageKey = 'broadwayboogie';
 const svg = document.getElementById('svg');
 
-// Canvas: #ad4835, #e9d3b0
-
-GUI.addRange('Grid', 50, '', { min: 5, max: 100, name: 'gridsize' });
+GUI.addRange('Grid', 40, '', { min: 5, max: 100, name: 'gridsize' });
 
 GUI.addSelect('Palette', 'Mondrian', '', { 
   options: [
-		{ key: 'Mondrian', value: '#E8CD26 #9F3E37 #4469B9 #E0E2DF' },
+		{ key: 'Mondrian', value: '#E8CD26 #9F3E37 #2B337E #E0E2DF #4E69CA' },
     { key: 'Bauhaus Originals', value: '#e47a2c #baccc0 #6c958f #40363f #d7a26c #ae4935 #f7e6d4' }, 
     { key: 'Weimar Heritage', value: '#4f507d #aba59f #eba027 #1f1c16 #998a74 #e2471f #56704a #e2805f' },
     { key: 'Modernist Spectrum', value: '#D32F2F #1976D2 #FFC107 #388E3C #F57C00 #7B1FA2 #455A64 #FBC02D' },
@@ -27,29 +25,107 @@ GUI.addSelect('Palette', 'Mondrian', '', {
 });
 
 common.commonConfig(GUI, '#F0F1EC');
-GUI.addEventListener('gui-input', (event) => common.handleGuiEvent(event, svg, GUI, storageKey, bauhaus));
+GUI.addEventListener('gui-input', (event) => common.handleGuiEvent(event, svg, GUI, storageKey, broadwayBoogie));
 common.init(GUI, storageKey, []);
 
-/* === MAIN FUNCTION === */
+function broadwayBoogie(svg, controls) {
+  const { width, height } = common.getViewBox(svg);
+  const gridsize = controls.gridsize.valueAsNumber;
+  const colors = controls.palette.value.split(/\s+/);
+  const cellWidth = width / gridsize;
+  const cellHeight = height / gridsize;
 
-function bauhaus(svg, controls) {
-	const { width, height } = common.getViewBox(svg);
-	const gridsize = controls.gridsize.valueAsNumber;
-  const colors = controls.palette.value.split(' ');
-	
-	const rectHeight = width / gridsize;
-	const elements = '';
-	// const elements = [...new Array(gridsize * gridsize)].map((_cell, cellIndex) => {
-	// 	const colIndex = cellIndex % columns;
-	// 	const rowIndex = Math.floor(cellIndex / columns);
+  function pickColor() {
+    const rand = Math.random();
+    if (rand < 0.7) return colors[0];
 
-	// 	return `
-	// 		<rect width="${boxWidth}" height="${boxWidth}" fill="${bgFill}" />
-	// 		`;
-	// }).join('');
+    if (rand < 0.9) {
+      const nextCount = Math.min(3, colors.length - 1);
+      if (nextCount > 0) {
+        const share = 0.2 / nextCount;
+        let threshold = 0.7;
+        for (let i = 1; i <= nextCount; i++) {
+          threshold += share;
+          if (rand < threshold) return colors[i];
+        }
+      }
+    }
 
-	svg.innerHTML = `
-		<g transform="translate(${width / 2} ${height / 2})>
-			${elements}
-		</g>`;
+    return colors.length > 4 ? 
+      colors[4 + Math.floor(Math.random() * (colors.length - 4))] : 
+      colors[Math.floor(Math.random() * colors.length)];
+  }
+
+  const grid = Array.from({length: gridsize}, () => 
+    Array.from({length: gridsize}, () => ({ type: 'empty', color: null }))
+  );
+
+  for (let y = 0; y < gridsize; y += Math.floor(gridsize / 10) || 1) {
+    if (Math.random() < 0.9) {
+      const lineColor = pickColor();
+      for (let x = 0; x < gridsize; x++) {
+        if (grid[y][x].type === 'empty' && Math.random() < 0.9) {
+          grid[y][x] = { type: 'line', color: lineColor };
+        }
+      }
+    }
+  }
+
+  for (let x = 0; x < gridsize; x += Math.floor(gridsize / 10) || 1) {
+    if (Math.random() < 0.9) {
+      const lineColor = pickColor();
+      for (let y = 0; y < gridsize; y++) {
+        if (grid[y][x].type === 'empty' && Math.random() < 0.9) {
+          grid[y][x] = { type: 'line', color: lineColor };
+        }
+      }
+    }
+  }
+
+  const numBlocks = Math.floor(gridsize * gridsize * 0.04);
+  for (let i = 0; i < numBlocks; i++) {
+    const bw = Math.floor(Math.random() * 3) + 1;
+    const bh = Math.floor(Math.random() * 3) + 1;
+    const startX = Math.floor(Math.random() * (gridsize - bw));
+    const startY = Math.floor(Math.random() * (gridsize - bh));
+    
+    const blockColor = pickColor();
+    const hasCenter = bw > 1 && bh > 1 && Math.random() < 0.4;
+    let centerColor = blockColor;
+
+    if (hasCenter && colors.length > 1) {
+      let attempts = 0;
+      while (centerColor === blockColor && attempts++ < 5) {
+        centerColor = pickColor();
+      }
+    }
+
+    for (let y = startY; y < startY + bh; y++) {
+      for (let x = startX; x < startX + bw; x++) {
+        grid[y][x] = { 
+          type: 'block', 
+          color: (hasCenter && x > startX && x < startX + bw - 1 && 
+                 y > startY && y < startY + bh - 1) ? centerColor : blockColor 
+        };
+      }
+    }
+  }
+
+  const elements = [];
+  for (let y = 0; y < gridsize; y++) {
+    for (let x = 0; x < gridsize; x++) {
+      const cell = grid[y][x];
+      if (cell.type !== 'empty' && cell.color) {
+        elements.push(`<rect x="${x * cellWidth}" y="${y * cellHeight}" width="${cellWidth}" height="${cellHeight}" fill="${cell.color}" />`);
+      }
+    }
+  }
+
+  const gridLines = [];
+  for (let i = 0; i <= gridsize; i++) {
+    gridLines.push(`<line x1="0" y1="${i * cellHeight}" x2="${width}" y2="${i * cellHeight}" />`);
+    gridLines.push(`<line x1="${i * cellWidth}" y1="0" x2="${i * cellWidth}" y2="${height}" />`);
+  }
+
+  svg.innerHTML = `<g>${elements.join('\n')}${gridLines.join('\n')}</g>`;
 }
