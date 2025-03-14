@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" id="svg" style="--frame-c: #f6c6a4; --frame-bdw: 1em; background-color: rgb(81, 79, 95); --frame-asr: 100 / 100.;"><g transform="translate(0 0) scale(1)">
+    
+      <circle cx="50" cy="50" r="11.25" fill="none" stroke="#514F5F" stroke-width="5"></circle>
+    
+      <circle cx="50" cy="50" r="22.5" fill="none" stroke="#787683" stroke-width="5"></circle>
+    
+      <circle cx="50" cy="50" r="33.75" fill="none" stroke="#B6B3C7" stroke-width="5"></circle>
+    
+      <circle cx="50" cy="50" r="45" fill="none" stroke="#797784" stroke-width="5"></circle>
+    
+  </g></svg>
